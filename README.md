@@ -6,3 +6,7 @@ About me
 <br>-Looking forward to have the R skill and finish this class well~
 
 Week1
+Week2
+Week3
+Week4
+Week5
