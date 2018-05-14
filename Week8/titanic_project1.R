@@ -5,8 +5,8 @@ library('dplyr') # data manipulation
 library('mice') # imputation
 library('rpart')
 library('randomForest') # classification algorithm
-train <-read.csv('/Users/kailan/Documents/GitHub/DataScienceR/week_8/task_8/titanicTrain.csv', stringsAsFactors = F)
-test  <-read.csv('/Users/kailan/Documents/GitHub/DataScienceR/week_8/task_8/titanicQuestion.csv', stringsAsFactors = F)
+train <-read.csv('/Users/kailan/Documents/GitHub/2018_spring_CSX/Week8/task_8/titanicTrain.csv', stringsAsFactors = F)
+test  <-read.csv('/Users/kailan/Documents/GitHub/2018_spring_CSX/Week8/task_8/titanicQuestion.csv', stringsAsFactors = F)
 test$Survived <- NA
 train_test <-rbind(train,test)
 sapply(train_test,function(x) sum(is.na(x)))
