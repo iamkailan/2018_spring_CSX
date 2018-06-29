@@ -7,29 +7,35 @@ Looking forward to have the R skill and finish this class well~
 
 Week1
 ----
-*都聽懂助教的解說，也大致了解code的意思了，但要自己寫出一份全新的還有困難，光在最後一題就卡好久...(然後100分的感謝助教和老師的耐心和用心)
-作業：個人作業
-作業連結：[HW1](https://iamkailan.github.io/2018_spring_CSX/Week1)
+*感想：都聽懂助教的解說，也大致了解code的意思了，但要自己寫出一份全新的還有困難，光在最後一題就卡好久...(然後100分的感謝助教和老師的耐心和用心)
+*作業：個人作業
+*作業連結：[HW1](https://iamkailan.github.io/2018_spring_CSX/Week1)
 
 Week2
 ----
-＊大致了解但打開Ｒcode還是不太清楚><
-＊看到ggplot跟word cloud有開心自己會用這學期得到的code改 距離老師要求的可能還有距離...
+＊ggplot跟word cloud
+*作業連結：[HW2](https://iamkailan.github.io/2018_spring_CSX/Week2)
 
 Week3
 ----
+*作業連結：[HW3](https://iamkailan.github.io/2018_spring_CSX/Week3)
+
 Week4
 ----
-Week5
-----
-Week6
-----
+*作業連結：[HW45](https://iamkailan.github.io/2018_spring_CSX/Week3.4.5(maybe?))
+
+
 Week7
 ----
+
 Week8
 ----
-作業：EDA與預測鐵達尼號倖存者
-https://iamkailan.github.io/2018_spring_CSX/Week8
+小組project3:EDA與預測鐵達尼號倖存者
+*作業連結：[HW8](https://iamkailan.github.io/2018_spring_CSX/Week8)
 
+Week9
+----
+過程：幾乎每週都和隊友約討論，Apriori這一部份我們討論很久要先了解，演算法是怎麼篩資料的，然後
 Final_Project
 ----
+期末報告，和在kkbox實習的黃仲安同學一組，聽他解說他的工作內容，並幫忙畫幾個圖
