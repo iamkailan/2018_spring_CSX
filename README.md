@@ -42,4 +42,5 @@ Week9
 Final_Project
 ----
 期末報告，和在kkbox實習的黃仲安同學一組，聽他解說他的工作內容，並幫忙畫幾個圖，開心的事期末報告也可以把我們的Apriori應用過來一起講
-*期末報告連結：[Final]https://github.com/iamkailan/2018_spring_CSX/tree/master/Final
+
+*期末報告連結：[Final](https://github.com/iamkailan/2018_spring_CSX/tree/master/Final)
