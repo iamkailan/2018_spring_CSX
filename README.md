@@ -9,7 +9,7 @@ Week1
 ----
 *感想：都聽懂助教的解說，也大致了解code的意思了，但要自己寫出一份全新的還有困難，光在最後一題就卡好久...(然後100分的感謝助教和老師的耐心和用心)
 *作業：個人作業
-*作業連結：[HW1](https://iamkailan.github.io/2018_spring_CSX/Week1)
+*作業連結：[HW1](https://github.com/iamkailan/2018_spring_CSX/tree/master/%EF%BC%B7eek1)
 
 Week2
 ----
@@ -18,7 +18,7 @@ Week2
 
 Week3
 ----
-*作業連結：[HW3](https://iamkailan.github.io/2018_spring_CSX/Week3)
+*作業連結：[HW3](https://github.com/iamkailan/2018_spring_CSX/tree/master/Week3)
 
 Week4
 ----
@@ -39,4 +39,4 @@ Week9
 
 Final_Project
 ----
-期末報告，和在kkbox實習的黃仲安同學一組，聽他解說他的工作內容，並幫忙畫幾個圖
+期末報告，和在kkbox實習的黃仲安同學一組，聽他解說他的工作內容，並幫忙畫幾個圖，開心的事期末報告也可以把我們的Apriori應用過來一起講
