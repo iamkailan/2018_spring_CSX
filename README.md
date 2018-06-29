@@ -15,17 +15,24 @@ Week1
 
 Week2
 ----
+
 ＊ggplot跟word cloud
+
+*作業：個人作業
 
 *作業連結：[HW2](https://iamkailan.github.io/2018_spring_CSX/Week2)
 
 Week3
 ----
 
+*作業：個人作業
+
 *作業連結：[HW3](https://github.com/iamkailan/2018_spring_CSX/tree/master/Week3)
 
 Week4
 ----
+
+*作業：個人作業
 
 *作業連結：[HW45](https://github.com/iamkailan/2018_spring_CSX/tree/master/Week3.4.5(maybe%3F))
 
