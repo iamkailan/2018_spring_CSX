@@ -36,9 +36,16 @@ colSums (qq2)
 ggplot(data=qq2, aes(x=dts, y=devices)) +
   geom_bar(stat="identity", width=0.5)
 
-
-
 devices<-data$device  
 counts<-data.frame(table(devices))
 tpo<-subset(counts, as.numeric(Freq)>500)
-ggplot(tpo,aes(x=devices, y=Freq))+geom_bar(stat = "identity")
+ggplot(tpo,aes(x=devices, y=Freq))+geom_bar(stat = "identity") +
+  geom_bar(stat="identity", fill="steelblue")+theme_minimal()+coord_flip()
+
+osfamily<-data$osfamily  
+osfamily_counts<-data.frame(table(osfamily))
+head(osfamily)
+head(osfamily_counts)
+osfamily_tpo<-subset(osfamily_counts, as.numeric(Freq)>500)
+ggplot(osfamily_tpo,aes(x=osfamily, y=Freq))+geom_bar(stat = "identity") +
+  geom_bar(stat="identity", fill="steelblue")+theme_minimal()+ coord_flip()
