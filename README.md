@@ -27,10 +27,12 @@ Week4
 
 Week7
 ----
+過程：因為本來的組員停休了，所以後面的小組project都和新組員一起做
 
 Week8
 ----
 小組project3:EDA與預測鐵達尼號倖存者
+
 *作業連結：[HW8](http://github.com/iamkailan/2018_spring_CSX/tree/master/Week8)
 
 Week9
