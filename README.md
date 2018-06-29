@@ -8,7 +8,9 @@ Looking forward to have the R skill and finish this class well~
 Week1
 ----
 *感想：都聽懂助教的解說，也大致了解code的意思了，但要自己寫出一份全新的還有困難，光在最後一題就卡好久...(然後100分的感謝助教和老師的耐心和用心)
+
 *作業：個人作業
+
 *作業連結：[HW1](https://github.com/iamkailan/2018_spring_CSX/tree/master/%EF%BC%B7eek1)
 
 Week2
