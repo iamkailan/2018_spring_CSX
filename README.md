@@ -56,6 +56,8 @@ Week7
 Week8
 ----
 
+小組project2:講解kaggle的kobe bryant進球率的程式碼
+
 過程：因為本來的組員停修了，所以後面的小組project都和新組員一起做，我們每週都有固定討論
 
 裡頭有一個用python的html檔案，我們另外畫了圖
@@ -79,6 +81,9 @@ Week8
 
 Week9
 ----
+
+小組project4:用Apriori分析期末資料
+
 過程：幾乎每週都和隊友約討論，Apriori這一部份我們討論很久要先了解，演算法是怎麼篩資料的，一開始沒有很懂邏輯後來才搞懂，然後再看我們期末的作業的資料要如何用Apriori做
 
 *作業連結：[Project4-Apriori](https://github.com/ndcahuang/dsprogramming/tree/master/project_4)
