@@ -38,7 +38,7 @@ Week8
 
 過程：因為本來的組員停修了，所以後面的小組project都和新組員一起做
 
-*作業連結：[Project2-Kaggle](http://github.com/iamkailan/2018_spring_CSX/tree/master/Week7)
+*作業連結：[Project2-Kaggle](http://github.com/iamkailan/2018_spring_CSX/tree/master/kaggle)
 
 
 Week9
