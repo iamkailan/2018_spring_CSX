@@ -36,19 +36,19 @@ Week7
 Week8
 ----
 
-過程：因為本來的組員停修了，所以後面的小組project都和新組員一起做
+過程：因為本來的組員停修了，所以後面的小組project都和新組員一起做，我們每週都有固定討論
 
 *作業連結：[Project2-Kaggle](http://github.com/iamkailan/2018_spring_CSX/tree/master/kaggle)
 
 
 Week9
 ----
-過程：幾乎每週都和隊友約討論，Apriori這一部份我們討論很久要先了解，演算法是怎麼篩資料的，然後再看我們期末的作業的資料要如何用Apriori做
+過程：幾乎每週都和隊友約討論，Apriori這一部份我們討論很久要先了解，演算法是怎麼篩資料的，一開始沒有很懂邏輯後來才搞懂，然後再看我們期末的作業的資料要如何用Apriori做
 
 *作業連結：[Project4-Apriori](https://github.com/ndcahuang/dsprogramming/tree/master/project_4)
 
 Final_Project
 ----
-期末報告，和在kkbox實習的黃仲安同學一組，聽他解說他的工作內容，並幫忙畫幾個圖，開心的事期末報告也可以把我們的Apriori應用過來一起講
+期末報告，和在kkbox實習的黃仲安同學一組，聽他解說他的工作內容，跑跑看資料，並幫忙畫圖，開心的是期末報告也可以把我們的Apriori應用過來一起講
 
 *期末報告連結：[Final](https://github.com/iamkailan/2018_spring_CSX/tree/master/Final)
