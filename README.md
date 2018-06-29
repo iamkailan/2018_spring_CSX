@@ -31,7 +31,7 @@ Week7
 Week8
 ----
 小組project3:EDA與預測鐵達尼號倖存者
-*作業連結：[HW8](https://iamkailan.github.io/2018_spring_CSX/Week8)
+*作業連結：[HW8](https://github.com/iamkailan/2018_spring_CSX/tree/master/Week8)
 
 Week9
 ----
