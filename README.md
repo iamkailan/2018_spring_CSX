@@ -27,17 +27,23 @@ Week4
 
 Week7
 ----
-過程：因為本來的組員停修了，所以後面的小組project都和新組員一起做
+小組project3:EDA與預測鐵達尼號倖存者
+
+*作業連結：[Project3-Titanic](http://github.com/iamkailan/2018_spring_CSX/tree/master/Week8)
+
+
 
 Week8
 ----
-小組project3:EDA與預測鐵達尼號倖存者
 
-*作業連結：[HW8](http://github.com/iamkailan/2018_spring_CSX/tree/master/Week8)
+過程：因為本來的組員停修了，所以後面的小組project都和新組員一起做
+*作業連結：[Project2-Kaggle](http://github.com/iamkailan/2018_spring_CSX/tree/master/Week7)
+
 
 Week9
 ----
-過程：幾乎每週都和隊友約討論，Apriori這一部份我們討論很久要先了解，演算法是怎麼篩資料的，然後
+過程：幾乎每週都和隊友約討論，Apriori這一部份我們討論很久要先了解，演算法是怎麼篩資料的，然後再看我們期末的作業的資料要如何用Apriori做
+*作業連結：[Project4-Apriori](https://github.com/ndcahuang/dsprogramming/tree/master/project_4)
 
 Final_Project
 ----
