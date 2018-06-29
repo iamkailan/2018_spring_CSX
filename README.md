@@ -16,6 +16,7 @@ Week1
 Week2
 ----
 ＊ggplot跟word cloud
+
 *作業連結：[HW2](https://iamkailan.github.io/2018_spring_CSX/Week2)
 
 Week3
